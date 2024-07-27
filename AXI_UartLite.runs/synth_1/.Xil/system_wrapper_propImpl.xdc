@@ -1,0 +1,5 @@
+set_property SRC_FILE_INFO {cfile:D:/FPGA/AXI_UartLite/AXI_UartLite.srcs/constrs_1/new/z7010_axi_uart.xdc rfile:../../../AXI_UartLite.srcs/constrs_1/new/z7010_axi_uart.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:3 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN N18 [get_ports rx_1]
+set_property src_info {type:XDC file:1 line:4 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN P18 [get_ports tx_0]
